@@ -4,9 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustana/)](https://www.linkedin.com/in/gustana/) [![Medium Badge](https://img.shields.io/badge/-@gustana9-000?style=socialpla&labelColor=000000&logo=Medium&link=https://medium.com/@gustana9/)](https://medium.com/@gustana9/) [![GitHub followers](https://img.shields.io/github/followers/gustana?label=Follow&style=social)](https://github.com/gustana/?tab=follow)
 
-<h2> I'm a data enthusiast who enjoys <i>discovering amusing facts from datasets</i> </h2>
-
 ## 🔍 About
+
+<h2> A data enthusiast who enjoys <i>discovering amusing facts from datasets</i> </h2>
+
 
 
 
