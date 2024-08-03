@@ -6,7 +6,7 @@
 
 ## 🔍 About
 
-<p style="font-size: 2em;"> A data enthusiast who enjoys <i>discovering amusing facts from datasets</i> </p>
+<p style="font-size: 2em;"><strong> A data enthusiast who enjoys <i>discovering amusing facts from datasets</i> </strong></p>
 
 
 
