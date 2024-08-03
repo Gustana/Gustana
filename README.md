@@ -13,4 +13,4 @@
 ## 🔍 About
 
 ## 🕹️ Tech Stack
-[![GitHub followers](https://img.shields.io/badge/python-grey?logo=python&style=flat)]()
+[![Python Logo](https://img.shields.io/badge/python-grey?logo=python&style=for-the-badge)](#) [![Pandas Logo](https://img.shields.io/badge/pandas-purple?logo=pandas&style=for-the-badge)](#) [![Tensorflow Logo](https://img.shields.io/badge/tensorflow-white?logo=tensorflow&style=for-the-badge)](#) [![Streamlit Logo](https://img.shields.io/badge/streamlit-white?logo=streamlit&style=for-the-badge)](#) [![PostgreSQL Logo](https://img.shields.io/badge/postgresql-f7e4d5?logo=postgresql&style=for-the-badge)](#) [![Jupyter Logo](https://img.shields.io/badge/jupyter-black?logo=jupyter&style=for-the-badge)](#)
