@@ -27,6 +27,9 @@
 <a href="https://scikit-learn.org/stable/">
     <img alt="Sklearn" title="Sklearn" height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn">
 </a>
+<a href="https://keras.io/">
+    <img alt="Keras" title="Keras" height="48" width="48" src="https://cdn.simpleicons.org/keras">
+</a>
 <a href="https://scipy.org">
     <img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
 </a>
