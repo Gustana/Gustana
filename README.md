@@ -42,8 +42,11 @@
 <a href="https://www.tableau.com/">
     <img alt="Tableau" title="Tableau" height="48" width="48" src="https://simpleicons.vercel.app/tableau/ff4dc1">
 </a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/">
+    <img alt="Flask" title="Flask" height="48" width="48" src="https://simpleicons.vercel.app/flask/6cf5a0">
+</a>
 <a href="https://airflow.apache.org/">
-    <img alt="Airflow" title="Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
+    <img alt="Apache Airflow" title="Apache Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
 </a>
 <a href="https://docker.com/">
     <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker">
