@@ -17,7 +17,10 @@
 
 <a href="https://www.python.org/">
     <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python">
-</a> 
+</a>
+<a href="https://www.selenium.dev/">
+    <img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
+</a>
 <a href="https://pandas.pydata.org/">
     <img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
 </a>
