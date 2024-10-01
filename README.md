@@ -11,6 +11,7 @@
 - 🤖 Exploring data field and AI
 - ⚡️ Detailed and Enthusiastic
 - ♞ Love to play chess
+- 🇩🇪 Currently learning deutsch
 
 
 ## 🕹️ Tech Stacks
