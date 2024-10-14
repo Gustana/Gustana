@@ -58,8 +58,6 @@
     <img alt="Power BI" title="Power BI" height="48" width="48" src="https://simpleicons.vercel.app/bookmeter/faae5c">
 </a>
 
-
-
 ### Others
 <a href="https://www.selenium.dev/">
     <img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
@@ -87,4 +85,18 @@
 </a>
 <a href="https://www.notion.so/">
     <img alt="Notion" title="Notion" height="48" width="48" src="https://simpleicons.vercel.app/notion/fff">
+</a>
+
+### Design Tools
+<a href="https://www.canva.com">
+    <img alt="Canva" title="Canva" height="48" width="48" src="https://simpleicons.vercel.app/canva/7a3de3">
+</a>
+<a href="https://www.figma.com">
+    <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
+</a>
+<a href="https://www.adobe.com/id_en/products/photoshop.html">
+    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://simpleicons.vercel.app/adobephotoshop/1971cf">
+</a>
+<a href="https://adobexdplatform.com/">
+    <img alt="Adobe XD" title="Adobe XD" height="48" width="48" src="https://simpleicons.vercel.app/adobexd/f540a0">
 </a>
