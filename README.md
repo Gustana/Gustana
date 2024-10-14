@@ -54,8 +54,8 @@
 <a href="https://www.tableau.com/">
     <img alt="Tableau" title="Tableau" height="48" width="48" src="https://simpleicons.vercel.app/tableau/ff4dc1">
 </a>
-<a href="https://www.tableau.com/">
-    <img alt="Microsoft Power BI" title="Microsoft Power BI" height="48" width="48" src="https://simpleicons.vercel.app/bookmeter/faae5c">
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">
+    <img alt="Power BI" title="Power BI" height="48" width="48" src="https://simpleicons.vercel.app/bookmeter/faae5c">
 </a>
 
 
