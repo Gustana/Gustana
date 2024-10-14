@@ -16,17 +16,23 @@
 
 ## 🕹️ Tech Stacks
 
+### Programming Languages
 <a href="https://www.python.org/">
     <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python">
 </a>
-<a href="https://www.selenium.dev/">
-    <img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
+<a href="https://kotlinlang.org/">
+    <img alt="Kotlin" title="Kotlin" height="48" width="48" src="https://cdn.simpleicons.org/kotlin">
 </a>
-<a href="https://pandas.pydata.org/">
-    <img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
+<a href="https://postgresql.org/">
+    <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
 </a>
-<a href="https://streamlit.io/">
-    <img alt="Streamlit" title="Streamlit" height="48" width="48" src="https://cdn.simpleicons.org/streamlit">
+<a href="https://www.mysql.com/">
+    <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql">
+</a>
+
+### Machine Learning Tools
+<a href="https://www.tensorflow.org/">
+    <img alt="Tensorflow" title="Tensorflow" height="48" width="48" src="https://cdn.simpleicons.org/tensorflow">
 </a>
 <a href="https://scikit-learn.org/stable/">
     <img alt="Sklearn" title="Sklearn" height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn">
@@ -34,23 +40,47 @@
 <a href="https://keras.io/">
     <img alt="Keras" title="Keras" height="48" width="48" src="https://cdn.simpleicons.org/keras">
 </a>
+
+### Data Analysis & Visualizations
+<a href="https://pandas.pydata.org/">
+    <img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
+</a>
+<a href="https://numpy.org/">
+    <img alt="Numpy" title="Numpy" height="48" width="48" src="https://simpleicons.vercel.app/numpy/3c96bd">
+</a>
 <a href="https://scipy.org">
     <img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
 </a>
-<a href="https://jupyter.org/">
-    <img alt="Jupyter" title="Jupyter" height="48" width="48" src="https://cdn.simpleicons.org/jupyter">
-</a>
-<a href="https://postgresql.org/">
-    <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
-</a>
 <a href="https://www.tableau.com/">
     <img alt="Tableau" title="Tableau" height="48" width="48" src="https://simpleicons.vercel.app/tableau/ff4dc1">
+</a>
+<a href="https://www.tableau.com/">
+    <img alt="Microsoft Power BI" title="Microsoft Power BI" height="48" width="48" src="https://simpleicons.vercel.app/bookmeter/faae5c">
+</a>
+
+
+
+### Others
+<a href="https://www.selenium.dev/">
+    <img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
+</a>
+<a href="https://streamlit.io/">
+    <img alt="Streamlit" title="Streamlit" height="48" width="48" src="https://cdn.simpleicons.org/streamlit">
+</a>
+<a href="https://jupyter.org/">
+    <img alt="Jupyter" title="Jupyter" height="48" width="48" src="https://cdn.simpleicons.org/jupyter">
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/">
     <img alt="Flask" title="Flask" height="48" width="48" src="https://simpleicons.vercel.app/flask/6cf5a0">
 </a>
 <a href="https://airflow.apache.org/">
     <img alt="Apache Airflow" title="Apache Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
+</a>
+<a href="https://spark.apache.org/">
+    <img alt="Apache Spark" title="Apache Spark" height="48" width="48" src="https://simpleicons.vercel.app/apachespark/fff">
+</a>
+<a href="https://kafka.apache.org/">
+    <img alt="Apache Kafka" title="Apache Kafka" height="48" width="48" src="https://simpleicons.vercel.app/apachekafka/fff">
 </a>
 <a href="https://docker.com/">
     <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker">
