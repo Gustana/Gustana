@@ -45,6 +45,9 @@
 <a href="https://pandas.pydata.org/">
     <img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
 </a>
+<a href="https://pola.rs/">
+    <img alt="Polars" title="Polars" height="48" width="48" src="https://cdn.simpleicons.org/polars">
+</a>
 <a href="https://numpy.org/">
     <img alt="Numpy" title="Numpy" height="48" width="48" src="https://simpleicons.vercel.app/numpy/3c96bd">
 </a>
