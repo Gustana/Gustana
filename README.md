@@ -1,6 +1,6 @@
 <img src="assets/my logo.png" alt="My Logo" width="10%"/>
 
-<h1> 👋 Wie geht's? Ich heiße Gustana </h1>
+<h1> 👋 Wie geht's? Ich heiße Wayan </h1>
 
 <p style="font-size: 2em;"><strong> A data enthusiast who enjoys <i>discovering amusing facts from datasets</i> </strong></p>
 
