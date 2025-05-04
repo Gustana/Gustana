@@ -6,6 +6,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?link=https://www.linkedin.com/in/gustana/)](https://www.linkedin.com/in/gustana/) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?color=blue&link=https://www.kaggle.com/gustanasatiawan)](https://www.kaggle.com/gustanasatiawan) [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-orange?link=https://huggingface.co/gustana)](https://huggingface.co/gustana) [![Medium Badge](https://img.shields.io/badge/-@gustana9-000?style=social&labelColor=000&logo=Medium&link=https://medium.com/@gustana9/)](https://medium.com/@gustana9/) [![GitHub followers](https://img.shields.io/github/followers/gustana?label=Follow&style=social)](https://github.com/gustana/?tab=follow)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
+</picture>
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 ## 🔍 About Me
 - ❄️ I luxuriate uncovering novel insights
 - 🤖 Exploring data field and AI
@@ -105,11 +112,3 @@
 <a href="https://www.notion.so/">
     <img alt="Notion" title="Notion" height="48" width="48" src="https://simpleicons.vercel.app/notion/fff">
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
