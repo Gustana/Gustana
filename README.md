@@ -35,7 +35,7 @@
     <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql/4479A1">
 </a>
 <a href="https://dbeaver.io/">
-    <img alt="DBeaver" title="DBeaver" height="48" width="48" src="https://cdn.simpleicons.org/dbeaver/7a501a">
+    <img alt="DBeaver" title="DBeaver" height="48" width="48" src="https://cdn.simpleicons.org/dbeaver">
 </a>
 
 ### Machine Learning Tools
