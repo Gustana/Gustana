@@ -63,10 +63,21 @@
     <img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
 </a>
 <a href="https://www.tableau.com/">
-    <img alt="Tableau" title="Tableau" height="48" width="48" src="https://images.seeklogo.com/logo-png/38/2/tableau-software-logo-png_seeklogo-386611.png">
+    <img alt="Tableau" title="Tableau" height="48" width="48" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png">
 </a>
 <a href="https://www.metabase.com/">
     <img alt="Metabase" title="Metabase" height="48" width="48" src="https://simpleicons.vercel.app/metabase/509EE3">
+</a>
+
+### Design Tools
+<a href="https://www.canva.com">
+    <img alt="Canva" title="Canva" height="48" width="48" src="https://simpleicons.vercel.app/canva/7a3de3">
+</a>
+<a href="https://www.figma.com">
+    <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
+</a>
+<a href="https://www.adobe.com/id_en/products/photoshop.html">
+    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
 </a>
 
 ### Others
@@ -93,15 +104,4 @@
 </a>
 <a href="https://www.notion.so/">
     <img alt="Notion" title="Notion" height="48" width="48" src="https://simpleicons.vercel.app/notion/fff">
-</a>
-
-### Design Tools
-<a href="https://www.canva.com">
-    <img alt="Canva" title="Canva" height="48" width="48" src="https://simpleicons.vercel.app/canva/7a3de3">
-</a>
-<a href="https://www.figma.com">
-    <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
-</a>
-<a href="https://www.adobe.com/id_en/products/photoshop.html">
-    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
 </a>
