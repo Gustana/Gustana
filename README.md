@@ -20,14 +20,22 @@
 <a href="https://www.python.org/">
     <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python">
 </a>
+<a href="#">
+    <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript/F7DF1E">
+</a>
 <a href="https://kotlinlang.org/">
     <img alt="Kotlin" title="Kotlin" height="48" width="48" src="https://cdn.simpleicons.org/kotlin">
 </a>
+
+### Databases
 <a href="https://postgresql.org/">
     <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
 </a>
 <a href="https://www.mysql.com/">
-    <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql">
+    <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql/4479A1">
+</a>
+<a href="https://dbeaver.io/">
+    <img alt="DBeaver" title="DBeaver" height="48" width="48" src="https://cdn.simpleicons.org/dbeaver/7a501a">
 </a>
 
 ### Machine Learning Tools
@@ -55,10 +63,10 @@
     <img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
 </a>
 <a href="https://www.tableau.com/">
-    <img alt="Tableau" title="Tableau" height="48" width="48" src="https://simpleicons.vercel.app/tableau/ff4dc1">
+    <img alt="Tableau" title="Tableau" height="48" width="48" src="https://images.seeklogo.com/logo-png/38/2/tableau-software-logo-png_seeklogo-386611.png">
 </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">
-    <img alt="Power BI" title="Power BI" height="48" width="48" src="https://simpleicons.vercel.app/bookmeter/faae5c">
+<a href="https://www.metabase.com/">
+    <img alt="Metabase" title="Metabase" height="48" width="48" src="https://simpleicons.vercel.app/metabase/509EE3">
 </a>
 
 ### Others
@@ -67,9 +75,6 @@
 </a>
 <a href="https://streamlit.io/">
     <img alt="Streamlit" title="Streamlit" height="48" width="48" src="https://cdn.simpleicons.org/streamlit">
-</a>
-<a href="https://jupyter.org/">
-    <img alt="Jupyter" title="Jupyter" height="48" width="48" src="https://cdn.simpleicons.org/jupyter">
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/">
     <img alt="Flask" title="Flask" height="48" width="48" src="https://simpleicons.vercel.app/flask/6cf5a0">
@@ -98,8 +103,5 @@
     <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
 </a>
 <a href="https://www.adobe.com/id_en/products/photoshop.html">
-    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://simpleicons.vercel.app/adobephotoshop/1971cf">
-</a>
-<a href="https://adobexdplatform.com/">
-    <img alt="Adobe XD" title="Adobe XD" height="48" width="48" src="https://simpleicons.vercel.app/adobexd/f540a0">
+    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
 </a>
