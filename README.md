@@ -72,8 +72,11 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 <a href="https://www.tableau.com/">
     <img alt="Tableau" title="Tableau" height="48" width="48" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png">
 </a>
-<a href="https://www.metabase.com/">
-    <img alt="Metabase" title="Metabase" height="48" width="48" src="https://simpleicons.vercel.app/metabase/509EE3">
+<a href="https://developers.google.com/apps-script">
+    <img alt="AppsScript" title="AppsScript" height="48" witdh="48" src="https://cdn.simpleicons.org/googleappsscript">
+</a>
+<a href="https://spreadsheets.google.com">
+    <img alt="Google SpreadSheets" title="Google SpreadSheets" height="48" width="48" src="https://img.icons8.com/?size=96&id=qrAVeBIrsjod&format=png">
 </a>
 
 ### Design Tools
@@ -82,9 +85,6 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 </a>
 <a href="https://www.figma.com">
     <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
-</a>
-<a href="https://www.adobe.com/id_en/products/photoshop.html">
-    <img alt="Photoshop" title="Photoshop" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
 </a>
 
 ### Others
@@ -99,12 +99,6 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 </a>
 <a href="https://airflow.apache.org/">
     <img alt="Apache Airflow" title="Apache Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
-</a>
-<a href="https://spark.apache.org/">
-    <img alt="Apache Spark" title="Apache Spark" height="48" width="48" src="https://simpleicons.vercel.app/apachespark/fff">
-</a>
-<a href="https://kafka.apache.org/">
-    <img alt="Apache Kafka" title="Apache Kafka" height="48" width="48" src="https://simpleicons.vercel.app/apachekafka/fff">
 </a>
 <a href="https://docker.com/">
     <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker">
