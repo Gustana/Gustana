@@ -11,7 +11,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustana/gustana/output/pacman-contribution-graph.svg">
 </picture>
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ## 🔍 About Me
 - ❄️ I luxuriate uncovering novel insights
@@ -24,85 +23,37 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 ## 🕹️ Tech Stacks
 
 ### Programming Languages
-<a href="https://www.python.org/">
-    <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python">
-</a>
-<a href="#">
-    <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript/F7DF1E">
-</a>
-<a href="https://kotlinlang.org/">
-    <img alt="Kotlin" title="Kotlin" height="48" width="48" src="https://cdn.simpleicons.org/kotlin">
-</a>
+<img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python">
+<img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript/F7DF1E">
+<img alt="Kotlin" title="Kotlin" height="48" width="48" src="https://cdn.simpleicons.org/kotlin">
 
 ### Databases
-<a href="https://postgresql.org/">
-    <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
-</a>
-<a href="https://www.mysql.com/">
-    <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql/4479A1">
-</a>
-<a href="https://dbeaver.io/">
-    <img alt="DBeaver" title="DBeaver" height="48" width="48" src="https://cdn.simpleicons.org/dbeaver">
-</a>
+<img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
+<img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.simpleicons.org/mysql/4479A1">
+<img alt="DBeaver" title="DBeaver" height="48" width="48" src="https://cdn.simpleicons.org/dbeaver">
 
 ### Machine Learning Tools
-<a href="https://www.tensorflow.org/">
-    <img alt="Tensorflow" title="Tensorflow" height="48" width="48" src="https://cdn.simpleicons.org/tensorflow">
-</a>
-<a href="https://scikit-learn.org/stable/">
-    <img alt="Sklearn" title="Sklearn" height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn">
-</a>
-<a href="https://keras.io/">
-    <img alt="Keras" title="Keras" height="48" width="48" src="https://cdn.simpleicons.org/keras">
-</a>
+<img alt="Tensorflow" title="Tensorflow" height="48" width="48" src="https://cdn.simpleicons.org/tensorflow">
+<img alt="Sklearn" title="Sklearn" height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn">
+<img alt="Keras" title="Keras" height="48" width="48" src="https://cdn.simpleicons.org/keras">
 
 ### Data Analysis & Visualizations
-<a href="https://pandas.pydata.org/">
-    <img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
-</a>
-<a href="https://pola.rs/">
-    <img alt="Polars" title="Polars" height="48" width="48" src="https://cdn.simpleicons.org/polars">
-</a>
-<a href="https://numpy.org/">
-    <img alt="Numpy" title="Numpy" height="48" width="48" src="https://simpleicons.vercel.app/numpy/3c96bd">
-</a>
-<a href="https://scipy.org">
-    <img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
-</a>
-<a href="https://www.tableau.com/">
-    <img alt="Tableau" title="Tableau" height="48" width="48" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png">
-</a>
-<a href="https://developers.google.com/apps-script">
-    <img alt="AppsScript" title="AppsScript" height="48" witdh="48" src="https://cdn.simpleicons.org/googleappsscript">
-</a>
-<a href="https://spreadsheets.google.com">
-    <img alt="Google SpreadSheets" title="Google SpreadSheets" height="48" width="48" src="https://img.icons8.com/?size=96&id=qrAVeBIrsjod&format=png">
-</a>
+<img alt="Pandas" title="Pandas" height="48" width="48" src="https://simpleicons.vercel.app/pandas/fff">
+<img alt="Polars" title="Polars" height="48" width="48" src="https://cdn.simpleicons.org/polars">
+<img alt="Numpy" title="Numpy" height="48" width="48" src="https://simpleicons.vercel.app/numpy/3c96bd">
+<img alt="Scipy" title="Scipy" height="48" width="48" src="https://cdn.simpleicons.org/scipy">
+<img alt="Tableau" title="Tableau" height="48" width="48" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png">
+<img alt="AppsScript" title="AppsScript" height="48" witdh="48" src="https://cdn.simpleicons.org/googleappsscript">
+<img alt="Google SpreadSheets" title="Google SpreadSheets" height="48" width="48" src="https://img.icons8.com/?size=96&id=qrAVeBIrsjod&format=png">
 
 ### Design Tools
-<a href="https://www.canva.com">
-    <img alt="Canva" title="Canva" height="48" width="48" src="https://simpleicons.vercel.app/canva/7a3de3">
-</a>
-<a href="https://www.figma.com">
-    <img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
-</a>
+<img alt="Canva" title="Canva" height="48" width="48" src="https://simpleicons.vercel.app/canva/7a3de3">
+<img alt="Figma" title="Figma" height="48" width="48" src="https://simpleicons.vercel.app/figma/d63aad">
 
 ### Others
-<a href="https://www.selenium.dev/">
-    <img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
-</a>
-<a href="https://streamlit.io/">
-    <img alt="Streamlit" title="Streamlit" height="48" width="48" src="https://cdn.simpleicons.org/streamlit">
-</a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/">
-    <img alt="Flask" title="Flask" height="48" width="48" src="https://simpleicons.vercel.app/flask/6cf5a0">
-</a>
-<a href="https://airflow.apache.org/">
-    <img alt="Apache Airflow" title="Apache Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
-</a>
-<a href="https://docker.com/">
-    <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker">
-</a>
-<a href="https://www.notion.so/">
-    <img alt="Notion" title="Notion" height="48" width="48" src="https://simpleicons.vercel.app/notion/fff">
-</a>
+<img alt="Selenium" title="Selenium" height="48" width="48" src="https://cdn.simpleicons.org/selenium/6cf5a0">
+<img alt="Streamlit" title="Streamlit" height="48" width="48" src="https://cdn.simpleicons.org/streamlit">
+<img alt="Flask" title="Flask" height="48" width="48" src="https://simpleicons.vercel.app/flask/6cf5a0">
+<img alt="Apache Airflow" title="Apache Airflow" height="48" width="48" src="https://simpleicons.vercel.app/apacheairflow/fff">
+<img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.simpleicons.org/docker">
+<img alt="Notion" title="Notion" height="48" width="48" src="https://simpleicons.vercel.app/notion/fff">
